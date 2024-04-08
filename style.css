@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+svg {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.bd-placeholder-img {
+  height:200px;
+  width:auto!important;
+  margin:0 auto;
+}
+
+#albania {background-image:url(images/albania.png);}
+#algeria {background-image:url(images/algeria.png);}
+#angola {background-image:url(images/angola.png);}
+#argentina {background-image:url(images/argentina.png);}
+#armenia {background-image:url(images/armenia.png);}
+#austria {background-image:url(images/austria.png);}
+#azerbaijan {background-image:url(images/azerbaijan.png);}
+#bangladesh {background-image:url(images/bangladesh.png);}
+#barbados {background-image:url(images/barbados.png);}
+#belgium {background-image:url(images/belgium.png);}
+#benin {background-image:url(images/benin.png);}
+#bolivia {background-image:url(images/bolivia.png);}
+#botswana {background-image:url(images/botswana.png);}
+#bulgaria {background-image:url(images/bulgaria.png);}
+#burkina-faso {background-image:url(images/burkina-faso.png);}
+#cameroon {background-image:url(images/cameroon.png);}
+#canada {background-image:url(images/canada.png);}
+#chad {background-image:url(images/chad.png);}
+#china {background-image:url(images/china.png);}
+#czech {background-image:url(images/czech.png);}
+#djibouti {background-image:url(images/djibouti.png);}
+#egypt {background-image:url(images/egypt.png);}
+#estonia {background-image:url(images/estonia.png);}
+#france {background-image:url(images/france.png);}
+#gabon {background-image:url(images/gabon.png);}
+#guatemala {background-image:url(images/guatemala.png);}
+#guinea {background-image:url(images/guinea.png);}
+#honduras {background-image:url(images/honduras.png);}
+#hungary {background-image:url(images/hungary.png);}
+#india {background-image:url(images/india.png);}
+#indonesia {background-image:url(images/indonesia.png);}
+#ireland {background-image:url(images/ireland.png);}
+#italy {background-image:url(images/italy.png);}
+#japan {background-image:url(images/japan.png);}
+#lithuania {background-image:url(images/lithuania.png);}
+#luxembourg {background-image:url(images/luxembourg.png);}
+#moldova {background-image:url(images/moldova.png);}
+#morocco {background-image:url(images/morocco.png);}
+#netherlands {background-image:url(images/netherlands.png);}
+#pakistan {background-image:url(images/pakistan.png);}
+#poland {background-image:url(images/poland.png);}
+#romania {background-image:url(images/romania.png);}
+#russia {background-image:url(images/russia.png);}
+#sierra-leone {background-image:url(images/sierra-leone.png);}
+#south-ossetia {background-image:url(images/south-ossetia.png);}
+#ukraine {background-image:url(images/ukraine.png);}
+#uruguay {background-image:url(images/uruguay.png);}
+#usa {background-image:url(images/usa.png);}
+#vatican {background-image:url(images/vatican.png);}
+#yemen {background-image:url(images/yemen.png);}
