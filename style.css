@@ -16,12 +16,13 @@ svg {
 }
 
 .in-process {
-  background: yellow;
+  background:yellow;
 }
 
 .done {
   background:light-green;
 }
+
 #albania {background-image:url(images/albania.png);}
 #algeria {background-image:url(images/algeria.png);}
 #angola {background-image:url(images/angola.png);}
