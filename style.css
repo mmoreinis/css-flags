@@ -8,12 +8,20 @@ svg {
   background-position: center;
   background-size: contain;
 }
+
 .bd-placeholder-img {
   height:200px;
   width:auto!important;
   margin:0 auto;
 }
 
+.in-process {
+  background: yellow;
+}
+
+.done {
+  background:light-green;
+}
 #albania {background-image:url(images/albania.png);}
 #algeria {background-image:url(images/algeria.png);}
 #angola {background-image:url(images/angola.png);}
