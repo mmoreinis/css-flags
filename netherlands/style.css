@@ -15,17 +15,22 @@ a {
 }
 
 .stripe {
-    width:100%;
-    height:33.33%;
+    width:375px;
+    height:75px;
 }
 
-.red {
-    background:red;
+.blue {
+    background:#263181;
 }
 
-.white {
+.white important{
     background:white;
 }
-.blue {
-    background:blue;
+.green {
+    background:#019D5C;
+}
+.img {
+    width:;
+    height:;
+    margin:;
 }
