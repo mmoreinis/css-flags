@@ -8,16 +8,15 @@ a {
     text-align:center;
 }
 .flag {
-  width:375px;
-  height:240px;
+  width:750px;
+  height:500px;
   margin:auto;
   border:1px solid black;
 }
 
 .stripe {
-    width:375px;
-    height:75px;
-    
+    width:750px;
+    height:100px;
 }
 
 .blue {
@@ -25,21 +24,20 @@ a {
    
 }
 #big {
-     background:white;
-     width:375px;
-     height:100;px
-     
+     background:#00A95C;
+     width:750px;
+     height:300;px
 }
-.white {
-    background:white;
+.red {
+    background:	#D01C1F;
   
 }
 .green {
-    background:#019D5C;
+    background:#00A95C;
    
 }
 .img {
-    width:92px;
-    height:92px;
+    width:750px;
+    height:300px;
     margin:auto
 }
