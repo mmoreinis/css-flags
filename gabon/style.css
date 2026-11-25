@@ -7,6 +7,7 @@ a {
     width:100%;
     text-align:center;
 }
+
 .flag {
   width:800px;
   height:600px;
@@ -18,8 +19,6 @@ a {
     width:100%;
     height:33.333%;
 }
-
-
 
 .green {
     background:#009639;
