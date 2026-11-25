@@ -1,0 +1,40 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:1200px;
+  height:600px;
+  margin:auto;
+  border:1px solid black;
+}
+
+.stripebig {
+    width: 50%;
+    height: 100%;
+}
+
+.stripesmall {
+    width: 25%;
+    height: 100%;
+}
+
+.red {
+    background:#FF0000;
+    float:left;
+}
+
+.white {
+    background:#FFFFFF;
+    float:left;
+}
+
+.icon {
+    width: 555px;
+    text-align:center;
+}
